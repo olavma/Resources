@@ -18,7 +18,7 @@
         "lang": "Castellano",
         "href":"projects/2",
         "github": "https://github.com/olavma/JSCarGame",
-        "play": "https://olavma.github.io/JSCarGame"
+        "play[DELETE]": "https://olavma.github.io/JSCarGame"
     },
     {
         "id": 3,

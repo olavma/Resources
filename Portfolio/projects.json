@@ -30,6 +30,29 @@
         "href":"projects/3",
         "github": "https://github.com/olavma/JuegatonDAMv1A-LostGame",
         "play": "https://olavma.github.io/JuegatonDAMv1A-LostGame/"
+    },
+    {
+        "id": 4,
+        "title": "Proyecto Final SMIX M04 - Bash Script",
+        "logo":"https://raw.githubusercontent.com/olavma/Resources/main/Portfolio/bash.webp",
+        "logoAlt": "Logo del Proyecto Final del Modulo 4 de SMIX",
+        "body": "Proyecto Final para la clase de Sistemas Operativos en Linea realizado para SMIX en primer año de Grado Medio",
+        "lang": "Castellano",
+        "href":"projects/4",
+        "github": "https://github.com/olavma/PracticaFinal-Bash",
+        "play": "https://olavma.github.io/PracticaFinal-Bash/",
+        "instructions": "¡Atención! Este script solo puede ser usado en un entorno Linux ya puede ser usando una maquina host con una distribución de Linux con un entorno de escritorio (GNOME, KDE, etc.) o una VM.-YND-También se puede usar WSL (Windows Subsystem for Linux) mediante la apliación 'Ubuntu', pero se <b>recomienda</b> un entorno con escritorio.-YND--YND-¡Se recomienda descomprimir el archivo en el escritorio!"
+    },
+    {
+        "id": 5,
+        "title": "Antiguo Portfolio",
+        "logo":"",
+        "logoAlt": "",
+        "body": "Antiguo Portfolio, hecho mediante HTML, CSS y JS puro, sin ningún framework y todo a mano, por algún motivo que ya no se editará, el CSS se ha roto.",
+        "lang": "Castellano",
+        "href":"projects/5",
+        "github": "https://github.com/olavma/old-portfolio",
+        "play": "https://olavma.github.io/old-portfolio/"
     }
   ]
   
